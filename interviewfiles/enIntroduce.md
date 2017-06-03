@@ -1,0 +1,8 @@
+# introduce myself
+Ok, thanks for giving me the opportunity for this interview.
+My chinese name is Li Yongchun, currently I am a second year graduate student of Department of Computer Science and Technology in Nanjing University, I received my B.Sc. degree in Material Science and Engineering in June 2014 from Nanjing University of Science and Technology. In my graduate, I am interested in machine learning and data mining, especially mulit-instance and multi-label learning. I joined in three issues:
+The first is "A Warning System of Chinese Herbal Medicine". The project uses abnormal detection based on high dimensional genetic algorithm for traditional Chinese medicine toxic drugs, anti-drug warning. In the web system design, we use servlet as a service back, and use easy-ui to design my font-end.
+
+The second is "A Data analysis system of Chinese Medicinal Pieces". This project establishes a comprehensive and integrated system which is more suitable for the discovery of Pieces knowledge. Using comprehensive integration association rules, hierarchical clustering and other data mining techniques. In the web system, we use servlet as a back-end, and use bootstrap to design font-end.
+
+The last is Evaluation of Chinese Formulae, it is based on the accumulation of traditional Chinese medicine prescription data to detect the relationship between formulae and symptoms. We introducing multi-instance multi-label learning technology, and take each herb of one formula as a instance, each symptom as label. This algorithm builds a predictive model to predict the symptoms that the herbs combination can treat.
